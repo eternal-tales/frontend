@@ -1,46 +1,60 @@
-# Getting Started with Create React App
+# Eternal Tales Frontend
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## 시작화면 페이지
+<table  style="text-align: center">
+    <tbody>
+        <tr>
+          <th style="text-align: center;">페이지 1</th>
+          <th style="text-align: center;">페이지 2</th>
+          <th style="text-align: center;">페이지 3</th>
+          <th style="text-align: center;">페이지 4</th>
+        </tr>
+      </tbody>
+      <tbody>
+        <tr>
+          <th><img src="https://github.com/eternal-tales/frontend/assets/59727077/1db31c8d-4599-44b6-a4f4-adf4df580e53" height="350px"/></th>
+          <th><img src="https://github.com/eternal-tales/frontend/assets/59727077/11cf07fb-f683-4a8b-be97-c853f2491f2e" height="350px"/></th>
+          <th><img src="https://github.com/eternal-tales/frontend/assets/59727077/30fc8656-bc1d-4e57-838b-2f70f85be2f6" height="350px"/></th>
+          <th><img src="https://github.com/eternal-tales/frontend/assets/59727077/ca17727f-809d-477c-a6ef-6f1c21ad9dff" height="350px"/></th>
+        </tr>
+      </tbody>
+    </table>
 
-## Available Scripts
+## 채팅방 페이지
+<table  style="text-align: center">
+    <tbody>
+        <tr>
+          <th style="text-align: center;">채팅 페이지 1</th>
+          <th style="text-align: center;">채팅 페이지 2</th>
+          <th style="text-align: center;">채팅 페이지 3</th>
+          <th style="text-align: center;">채팅 페이지 4</th>
+        </tr>
+      </tbody>
+      <tbody>
+          <th><img src="https://github.com/eternal-tales/frontend/assets/59727077/98c93018-6e7c-479f-a5f8-b613eef9301d" height="350px"/></th>
+          <th><img src="https://github.com/eternal-tales/frontend/assets/59727077/582b87d5-d2a9-4d04-9065-ac60c21636b8" height="350px"/></th>
+          <th><img src="https://github.com/eternal-tales/frontend/assets/59727077/c32dae56-7f00-41be-8f3d-ac565b060962" height="350px"/></th>
+          <th><img src="https://github.com/eternal-tales/frontend/assets/59727077/252ddbcf-54c7-4104-8d86-260336ca64c5" height="350px"/></th>
+        </tr>
+      </tbody>
+    </table>
 
-In the project directory, you can run:
 
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+## 채팅방 페이지
+<table  style="text-align: center">
+    <tbody>
+        <tr>
+          <th style="text-align: center;">갤러리 페이지 1</th>
+          <th style="text-align: center;">갤러리 페이지 2</th>
+          <th style="text-align: center;">갤러리 페이지 3</th>
+          <th style="text-align: center;">기억공간 페이지</th>
+        </tr>
+      </tbody>
+      <tbody>
+          <th><img src="https://github.com/eternal-tales/frontend/assets/59727077/ca5ad3e2-dc20-4c8f-bb69-112bcddb373a" height="350px"/></th>
+          <th><img src="https://github.com/eternal-tales/frontend/assets/59727077/9c13555b-b792-4b54-9600-e79339d6bfce" height="350px"/></th>
+          <th><img src="https://github.com/eternal-tales/frontend/assets/59727077/539b1d1b-6246-4944-8401-b8647ff16bd3" height="350px"/></th>
+          <th><img src="https://github.com/eternal-tales/frontend/assets/59727077/83b285e6-8fed-4534-9377-a3efce84a562" height="350px"/></th>
+        </tr>
+      </tbody>
+    </table>
